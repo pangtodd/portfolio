@@ -8,7 +8,7 @@ Website of my coding experience
 
 * HTML
 * CSS
-* Bootstrap?
+* Bootstrap
 * markdown
 
 ## Description: This is a basic HTML website to showcase my experience thus far.

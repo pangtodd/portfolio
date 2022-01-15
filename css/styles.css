@@ -1,3 +1,23 @@
+.boxy {
+  width: 75%;
+  border: solid black;
+  border-width: 5px;
+  padding: 4px;
+  background-color: rgb(160, 194, 194);
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.boxy2 {
+  width: 100%;
+  border: solid black;
+  border-width: 5px;
+  padding: 4px;
+  background-color: rgb(160, 194, 194);
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
 .pic {
   width: 250px;
   padding: 1px;
