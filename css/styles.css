@@ -23,3 +23,9 @@ li {
 .smaller {
   font-size:medium
 }
+
+.robotic {
+  font-family:courier;
+  font-weight:bold;
+  color:green
+}
