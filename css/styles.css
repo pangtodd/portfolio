@@ -19,3 +19,7 @@ p {
 li {
   font-size: x-large
 }
+
+.smaller {
+  font-size:medium
+}
