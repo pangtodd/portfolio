@@ -1,4 +1,21 @@
-.smaller {
-  height: 25%;
-  width: auto;
+.pic {
+  width: 250px;
+  padding: 1px;
+  border:black;
+  border-width: 15px;
+  float: right;
+}
+
+h1 {
+  font-family: arial;
+  font-weight: bold;
+  color:darkslategray
+}
+
+p {
+  font-size:xx-large
+}
+
+li {
+  font-size: x-large
 }
