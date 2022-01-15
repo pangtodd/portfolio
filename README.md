@@ -1,10 +1,10 @@
-#Pang Portfolio
+# Pang Portfolio
 
-####By Todd Pangilinan
+#### By Todd Pangilinan
 
 Website of my coding experience
 
-##Technologies used:
+## Technologies used:
 
 * HTML
 * CSS
