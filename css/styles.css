@@ -1,3 +1,8 @@
+.container {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
 .boxy {
   width: 75%;
   border: solid black;
