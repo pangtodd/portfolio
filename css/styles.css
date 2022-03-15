@@ -1,3 +1,7 @@
+body {
+  background-color: F2F3F1;
+}
+
 .container {
   margin-top: 5%;
   margin-bottom: 5%;
@@ -8,7 +12,8 @@
   border: solid black;
   border-width: 5px;
   padding: 4px;
-  background-color: rgb(160, 194, 194);
+  background-color: 6C7A7B
+  ;
   margin-bottom: 10px;
   box-sizing: border-box;
 }
@@ -29,6 +34,10 @@
   border:black;
   border-width: 15px;
   float: right;
+}
+
+#about, #experience, #project{
+  display: none;
 }
 
 h1 {
